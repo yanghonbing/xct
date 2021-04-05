@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+21831f9786a60b4d7aee2508fb3631dd39fff0a6 refs/remotes/origin/dependency
+fd24865eaae69314f3e01c71a538e745bfcdf8ae refs/remotes/origin/master
+8f312e3aa1b225d165d39b849535094e89876708 refs/remotes/origin/patch-1
+686a93d8297bd8c1befdaf7727eccb5eca00a89f refs/remotes/origin/patch-2
+941255550bc8c5b2e56f3ee6bd6c96ee6c150a87 refs/remotes/origin/podman
+195039afc31e7429f2b34331eb6b083720f5d1da refs/remotes/origin/sonarqube
+355f9d9214f7ac26887d50a8e42c56d74212984c refs/tags/v0.0.1
